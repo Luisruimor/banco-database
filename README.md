@@ -15,10 +15,9 @@ Es un ejercicio introductorio a la asignatura de base de datos de la [Universida
 - Cada préstamo se genera en una sucursal concreta y pueden solicitarlo uno o más clientes. Cada préstamo se identifica mediante un número de préstamo único. Para cada préstamo el banco mantiene un registro del importe del préstamo y de los pagos realizados el número de pago si que identifica cada pago de un préstamo concreto. De cada pago se registran la fecha y el importe.
 
 ## Ejecución
-Antes de hacer el diseño físico en SQL, pasaremos en orden por las etapas de:
+Para hacer este ejercicio pasaremos en orden por estas etapas:
 
 - __Diseño conceptual:__ El diseño conceptual se realiza a partir de la especificación de requisitos y se obtiene el esquema conceptual. En mi caso, el esquema conceptual sera un diagrama [__Entidad-Relación__](Diagrama%20caso%20del%20banco.png)
-- __Diseño lógico:__El diseño lógico se realiza a partir del esquema conceptual y
-se obtiene el esquema lógico. [__Modelo relacional__](Modelo%20Relacional.md)
+- __Diseño lógico:__El diseño lógico se realiza a partir del esquema conceptual y se obtiene el esquema lógico. [__Modelo relacional__](Modelo%20Relacional.md)
 
 Por último, haremos el [diseño físico](Database.sql) en lenguaje SQL. 

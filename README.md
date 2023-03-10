@@ -18,6 +18,6 @@ Es un ejercicio introductorio a la asignatura de base de datos de la [Universida
 Para hacer este ejercicio pasaremos en orden por estas etapas:
 
 - __Diseño conceptual:__ El diseño conceptual se realiza a partir de la especificación de requisitos y se obtiene el esquema conceptual. En mi caso, el esquema conceptual sera un diagrama [__Entidad-Relación__](Diagrama%20caso%20del%20banco.png)
-- __Diseño lógico:__El diseño lógico se realiza a partir del esquema conceptual y se obtiene el esquema lógico. [__Modelo relacional__](Modelo%20Relacional.md)
+- __Diseño lógico:__ El diseño lógico se realiza a partir del esquema conceptual y se obtiene el esquema lógico. [__Modelo relacional__](Modelo%20Relacional.md)
 
 Por último, haremos el [diseño físico](Database.sql) en lenguaje SQL. 
